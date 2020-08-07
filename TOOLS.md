@@ -1,6 +1,6 @@
 ## :star2: Tools
 
-The Google Apps Script Starker kit uses these tools under the hood.
+The Google Apps Script Starter kit uses these tools under the hood.
 
 #### Babel
 
